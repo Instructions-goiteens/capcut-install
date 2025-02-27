@@ -297,10 +297,10 @@
             }));
         }
     }), 0);
-    const leaf1 = __webpack_require__.p + "demo-capcut/img/leaf1.webp";
-    const leaf2 = __webpack_require__.p + "demo-capcut/img/leaf2.webp";
-    const leaf3 = __webpack_require__.p + "demo-capcut/img/leaf3.webp";
-    const leaf4 = __webpack_require__.p + "demo-capcut/img/leaf4.webp";
+    const leaf1 = __webpack_require__.p + "capcut-install/img/leaf1.webp";
+    const leaf2 = __webpack_require__.p + "capcut-install/img/leaf2.webp";
+    const leaf3 = __webpack_require__.p + "capcut-install/img/leaf3.webp";
+    const leaf4 = __webpack_require__.p + "capcut-install/img/leaf4.webp";
     if (window.innerWidth > 549.98) {
         const leafImages = [ leaf1, leaf2, leaf3, leaf4 ];
         const maxLeaves = 15;
